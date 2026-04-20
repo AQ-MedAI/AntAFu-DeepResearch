@@ -1,0 +1,9 @@
+# Core dependencies
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+openai>=1.6.0
+
+# Transformers & PyTorch for PPL model
+transformers>=4.55.0
+torch>=2.7.1
+accelerate>=1.7.0
