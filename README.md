@@ -7,8 +7,9 @@
 ---
 
 ## 🔥 News
+* **[2026-05]** 🎉 We have proposed **SlimSearcher**.
 
-* **[2025-04]** 🎉 **WebClipper** has been accepted to **ACL 2026 Main**! Our work on efficient web agent evolution via graph-based trajectory pruning achieves **~20% reduction in tool-call rounds** while improving accuracy. [Paper is available here](https://arxiv.org/pdf/2602.12852).
+* **[2026-04]** 🎉 **WebClipper** has been accepted to **ACL 2026 Main**! Our work on efficient web agent evolution via graph-based trajectory pruning achieves **~20% reduction in tool-call rounds** while improving accuracy. [Paper is available here](https://arxiv.org/pdf/2602.12852).
 
 ---
 
