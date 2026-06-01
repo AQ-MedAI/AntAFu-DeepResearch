@@ -7,7 +7,7 @@
 ---
 
 ## 🔥 News
-* **[2026-05]** 🎉 We have proposed **SlimSearcher**. SlimSearcher is an efficiency-aware training framework for web agents that reduces tool-call rounds by 17%-58% while maintaining or improving accuracy.
+* **[2026-05]** 🎉 We have proposed **SlimSearcher**. an efficiency-aware training framework for web agents that reduces tool-call rounds by 17%–58% while maintaining or even improving accuracy.
 
 * **[2026-04]** 🎉 **WebClipper** has been accepted to **ACL 2026 Main**! Our work on efficient web agent evolution via graph-based trajectory pruning achieves **~20% reduction in tool-call rounds** while improving accuracy. [Paper is available here](https://arxiv.org/pdf/2602.12852).
 
